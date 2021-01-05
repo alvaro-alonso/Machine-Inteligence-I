@@ -1,6 +1,7 @@
 # Machine-Inteligence-I
 
-Direct commits to master are disabled. Changes to main should happend through pull request and have the approval of at least another member.
+## DO NOT Push straigth to the main branch.
+Changes to main should happen through pull request and have the approval of at least another member.
 
 When creating a branch please stick to the name convention: "Exercise_X/ex_Y/AUTHOR". Where:
 - X is the excercise sheet number.
